@@ -1,10 +1,6 @@
 
-# QPE
+Quantum phase estimation
 
-
-## Requirements
-
-.
 
 Use 
 ```
@@ -19,12 +15,12 @@ Pip installation:
 ```
 
 
-# Example
+Example
 
 
-# Related publications
+Related publications
 
 
-# Authors
+Authors
 
 Emre Caglak
