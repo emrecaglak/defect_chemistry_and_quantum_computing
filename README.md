@@ -1,26 +1,46 @@
+<!-- introduction -->
 
-Quantum phase estimation
+### :atom: Quantum many-body system library
 
+```
+├── README.md
+├── data
+├── gen
+│   ├── analysis
+│   ├── data-preparation
+│   └── paper
+└── src
+    ├── analysis
+    ├── data-preparation
+    └── paper
+```
 
-Use 
+<!-- usage -->
+
+### Use
+
 ```
    !pip install -r requirements.txt
 ```
 
 
-Pip installation:
+### Pip installation
 
 ```
    !pip install git://github.com/
 ```
 
+<!-- License -->
 
-Example
+### License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
-Related publications
+<!-- contact -->
+
+### Contact
+
+Emre Caglak (ec@terraquantum.swiss)
 
 
-Authors
-
-Emre Caglak
