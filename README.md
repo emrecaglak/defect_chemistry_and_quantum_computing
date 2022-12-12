@@ -4,14 +4,12 @@
 
 ```
 ├── README.md
-├── data
 ├── gen
 │   ├── analysis
 │   ├── data-preparation
-│   └── paper
+│
 └── src
     ├── analysis
-    ├── data-preparation
     └── paper
 ```
 
